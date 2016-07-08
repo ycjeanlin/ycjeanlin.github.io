@@ -52,14 +52,14 @@ permalink: /cv/
 </section>
 
 
-<section class="publication">
+<section class="project">
     <div class="container">
         <h3 class="categories"><span class="fa fa-flask"></span>Projects</h3>
         <div class="row">
             <h4 class="col-sm-4">April 2016 - Present</h4>
             <div class="col-sm-8">
                 <p><b>slice, USA</b></p>
-                <p><a href="https://www.slice.com/">https://www.slice.com/</a>
+                <p><a href="https://www.slice.com/">https://www.slice.com/</a></p>
                 <p>Working on a research topic “User Segmenting with Temporal Factor for Targeted Advertising”</p>
             </div>
         </div>
