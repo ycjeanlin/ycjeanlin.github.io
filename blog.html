@@ -1,0 +1,27 @@
+---
+layout: default
+---
+<section class="title">
+    <div class="container">
+        <h1>BLOG ARCHIVE</h1>
+        <p>Life isn't about waiting for the storm to pass... It's about learning to dance in the rain<small>- Anonymous</small></p>
+    </div>
+</section>
+
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
+
+    <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+    <div class="date"><span class="fa fa-calendar"></span> {{ post.date | date: "%-d %B, %Y"}}</div>
+
+    <div class="entry">
+        <p>{{ post.content | strip_html | truncatewords:50}}</p>
+    </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+
+  {% endfor %}
+</div>
