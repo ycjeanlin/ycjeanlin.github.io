@@ -20,6 +20,3 @@ summary: The author talked about the second smartphone revolution in the develop
 </ul>
        
 <p><a href="https://avc.com/2016/03/the-second-smartphone-revolution/" target="_blank">Source Link</a></p>
-
-
-<p class="pull-right">{% if page.previous.url %} <a href="{{page.previous.url}}" title="Previous Post: {{page.previous.title}}"><i class="icon-chevron-left"></i></a>   {% endif %}   {% if page.next.url %}    <a href="{{page.next.url}}" title="Next Post: {{page.next.title}}"><i class="icon-chevron-right"></i></a>   {% endif %} </p> 
