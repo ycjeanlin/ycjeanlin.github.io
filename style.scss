@@ -25,7 +25,7 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 740px;
+  max-width: 960px;
   padding: 0 10px;
   width: 100%;
 }
@@ -246,11 +246,6 @@ nav {
   border-bottom: 1px solid $lightGray;
 }
 
-.posts > .post:last-child {
-  padding-bottom: 1em;
-  border-bottom: none;
-}
-
 .post {
   blockquote {
     margin: 1.8em .8em;
@@ -272,13 +267,17 @@ nav {
 }
 
 .wrapper-footer {
-  margin-top: 50px;
+  margin-top: 100px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
 }
 
 footer {
+  margin-top: 100px;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  background-color: $lightGray;
   padding: 20px 0;
   text-align: center;
 }
