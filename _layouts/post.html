@@ -16,15 +16,15 @@ layout: default
   {% include disqus.html %}
 </article>
 
-<p class="pull-right">
+<p class="PageNavigation">
     {% if page.previous.url %} 
-    <a href="{{page.previous.url}}" title="Previous Post: {{page.previous.title}}">
-        <i class="fa fa-arrow-left"></i>
+    <a class="prev" href="{{page.previous.url}}">        
+        <i class="fa fa-arrow-left"></i> {{page.previous.title}}
     </a>   
     {% endif %}   
     {% if page.next.url %}    
-    <a href="{{page.next.url}}" title="Next Post: {{page.next.title}}">
-        <i class="fa fa-arrow-right"></i>
+    <a class="next" href="{{page.next.url}}">
+        {{page.next.title}} <i class="fa fa-arrow-right"></i>
     </a>   
     {% endif %} 
 </p> 
