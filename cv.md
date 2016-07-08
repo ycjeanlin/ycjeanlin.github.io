@@ -54,7 +54,7 @@ permalink: /cv/
 
 <section class="project">
     <div class="container">
-        <h3 class="categories"><span class="fa fa-flask"></span>Projects</h3>
+        <h3 class="categories"><span class="fa fa-flask"></span> Projects</h3>
         <div class="row">
             <h4 class="col-sm-4">April 2016 - Present</h4>
             <div class="col-sm-8">
