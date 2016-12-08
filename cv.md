@@ -6,7 +6,7 @@ permalink: /cv/
 <section class="title">
     <div class="container">
         <h1>CURRICULUM VITAE</h1>
-        <p><a href="{{ site.baseurl }}/doc/CV.pdf" target="_blank">PDF version download</a></p>
+        <p><a href="{{ site.baseurl }}/doc/CV_20161205.pdf" target="_blank">PDF version download</a></p>
     </div>
 </section>
 
@@ -15,10 +15,11 @@ permalink: /cv/
     <div class="container">
         <h3 class="categories"><span class="fa fa-graduation-cap"></span> Education</h3>
         <div class="row">
-            <h4 class="col-sm-4">Jan 2014 - July 2016</h4>
+            <h4 class="col-sm-4">Feb 2014 - June 2016</h4>
             <div class="col-sm-8">
                 <p><b>National Cheng Kung University, Taiwan</b></p>
                 <p>Master of Science in Computer Science and Information Engineering</p>
+                <p>Advisors: <a href="http://cv_ktchuang.cannerapp.com/">Prof. Kun-Ta Chuang</a> and <a href="http://people.cs.nctu.edu.tw/~vtseng/">Prof. Vincent S. Tseng</a></p>
             </div>
         </div>
         <div class="row">
@@ -43,6 +44,18 @@ permalink: /cv/
     <div class="container">
         <h3 class="categories"><span class="fa fa-book"></span> Publications</h3>
         <div class="row">
+            <h4 class="col-sm-4">APR 2017</h4>
+            <div class="col-sm-8">
+                <p><u>Ying Chun Lin</u>, Chi-Hsuan Huang, Chu-Cheng Hsieh, Yu-Chen Shu, Kun-Ta Chuang, Monetary Discount Strategies for Real-Time Promotion Campaign, In <i>Proceedings of the 26th International Conference on World Wide Web</i>. (WWW ‘17) (submitted) <span class="fa fa-file-text-o"></span> <a href="" target="_blank">link</a></p>
+            </div>
+        </div>
+        <div class="row">
+            <h4 class="col-sm-4">OCT 2016</h4>
+            <div class="col-sm-8">
+                <p><u>Ying Chun Lin</u>, Po-An Yang, Yen-Kuan Lee, Kun-Ta Chuang, Generation of Conceptual-Level Text Cloud with Graph Diffusion, In <i>Proceedings of 28th Conference on Computational Linguistics and Speech Processing</i>. (ROCOLING ‘16) <span class="fa fa-file-text-o"></span> <a href="https://sites.google.com/site/rocling2016/program/technical-program" target="_blank">link</a></p>
+            </div>
+        </div>
+        <div class="row">
             <h4 class="col-sm-4">May 2015</h4>
             <div class="col-sm-8">
                 <p><u>Ying Chun Lin</u>, Cheng-Wei Wu, Vincent S. Tseng, Mining High Utility Itemsets in Big Data, In <i>Proceedings of the International Pacific-Asia Conference on Knowledge Discovery and Data Mining</i>, pp.649 - 661. (PAKDD '15) <span class="fa fa-file-text-o"></span> <a href="http://link.springer.com/chapter/10.1007%2F978-3-319-18032-8_51" target="_blank">link</a></p>
@@ -56,18 +69,27 @@ permalink: /cv/
     <div class="container">
         <h3 class="categories"><span class="fa fa-flask"></span> Projects</h3>
         <div class="row">
-            <h4 class="col-sm-4">April 2016 - Present</h4>
+            <h4 class="col-sm-4">Sep 2016 - Present</h4>
             <div class="col-sm-8">
-                <p><b>slice, USA</b></p>
-                <p><a href="https://www.slice.com/">https://www.slice.com/</a></p>
-                <p>Working on a research topic “User Segmenting with Temporal Factor for Targeted Advertising”</p>
+                <p><b><a href="https://www.sinica.edu.tw/en">Academia Sinica</a>, Taiwan</b></p>
+                <p>Supervisor: <a href="http://www.iis.sinica.edu.tw/pages/dnyang/">Prof. De-Nian Yang</a></p>
+                <p>Working on a research project related to spatial queries in Virtual Reality</p>
             </div>
         </div>
         <div class="row">
-            <h4 class="col-sm-4">July 2014 - Dec 2014</h4>
+            <h4 class="col-sm-4">APR 2016 - Present</h4>
+            <div class="col-sm-8">
+                <p><b><a href="https://www.slice.com/">Slice Technologies</a>, USA</b></p>
+                <p></p>
+                <p>Supervisor: <a href="https://www.linkedin.com/in/chucheng">Dr. Chu-Cheng Hsieh</a></p>
+                <p>Worked on a research topic “Monetary Discount Strategies for Real-Time Promotion Campaign”</p>
+            </div>
+        </div>
+        <div class="row">
+            <h4 class="col-sm-4">JUL 2014 - DEC 2014</h4>
             <div class="col-sm-8">
                 <p><b>Industrial Technology Research Institute, Taiwan</b></p>
-                <p>Research Assistant</p>
+                <p>Supervisor: <a href="http://people.cs.nctu.edu.tw/~vtseng/">Prof. Vincent S. Tseng</a></p>
                 <p>Worked on a research topic “An Efficient Algorithm for On-Shelf Sequential Pattern Mining”</p>
             </div>
         </div>
@@ -123,7 +145,7 @@ permalink: /cv/
 <div class="container">
     <br>
     <br>
-    <p class="pull-right">last update: 2016-07-07</p>
+    <p class="pull-right">last update: 2016-12-08</p>
 </div>
 
 
