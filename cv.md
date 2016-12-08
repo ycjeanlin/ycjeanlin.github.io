@@ -19,7 +19,7 @@ permalink: /cv/
             <div class="col-sm-8">
                 <p><b>National Cheng Kung University, Taiwan</b></p>
                 <p>Master of Science in Computer Science and Information Engineering</p>
-                <p>Advisors: <a href="http://cv_ktchuang.cannerapp.com/">Prof. Kun-Ta Chuang</a> and <a href="http://people.cs.nctu.edu.tw/~vtseng/">Prof. Vincent S. Tseng</a></p>
+                <p>Advisors: <a href="http://cv_ktchuang.cannerapp.com/" target="_blank">Prof. Kun-Ta Chuang</a> and <a href="http://people.cs.nctu.edu.tw/~vtseng/" target="_blank">Prof. Vincent S. Tseng</a></p>
             </div>
         </div>
         <div class="row">
@@ -71,17 +71,17 @@ permalink: /cv/
         <div class="row">
             <h4 class="col-sm-4">Sep 2016 - Present</h4>
             <div class="col-sm-8">
-                <p><b><a href="https://www.sinica.edu.tw/en">Academia Sinica</a>, Taiwan</b></p>
-                <p>Supervisor: <a href="http://www.iis.sinica.edu.tw/pages/dnyang/">Prof. De-Nian Yang</a></p>
+                <p><b><a href="https://www.sinica.edu.tw/en" target="_blank">Academia Sinica</a>, Taiwan</b></p>
+                <p>Supervisor: <a href="http://www.iis.sinica.edu.tw/pages/dnyang/" target="_blank">Prof. De-Nian Yang</a></p>
                 <p>Working on a research project related to spatial queries in Virtual Reality</p>
             </div>
         </div>
         <div class="row">
             <h4 class="col-sm-4">APR 2016 - Present</h4>
             <div class="col-sm-8">
-                <p><b><a href="https://www.slice.com/">Slice Technologies</a>, USA</b></p>
+                <p><b><a href="https://www.slice.com/" target="_blank">Slice Technologies</a>, USA</b></p>
                 <p></p>
-                <p>Supervisor: <a href="https://www.linkedin.com/in/chucheng">Dr. Chu-Cheng Hsieh</a></p>
+                <p>Supervisor: <a href="https://www.linkedin.com/in/chucheng" target="_blank">Dr. Chu-Cheng Hsieh</a></p>
                 <p>Worked on a research topic “Monetary Discount Strategies for Real-Time Promotion Campaign”</p>
             </div>
         </div>
@@ -89,7 +89,7 @@ permalink: /cv/
             <h4 class="col-sm-4">JUL 2014 - DEC 2014</h4>
             <div class="col-sm-8">
                 <p><b>Industrial Technology Research Institute, Taiwan</b></p>
-                <p>Supervisor: <a href="http://people.cs.nctu.edu.tw/~vtseng/">Prof. Vincent S. Tseng</a></p>
+                <p>Supervisor: <a href="http://people.cs.nctu.edu.tw/~vtseng/" target="_blank">Prof. Vincent S. Tseng</a></p>
                 <p>Worked on a research topic “An Efficient Algorithm for On-Shelf Sequential Pattern Mining”</p>
             </div>
         </div>
