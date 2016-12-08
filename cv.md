@@ -46,19 +46,19 @@ permalink: /cv/
         <div class="row">
             <h4 class="col-sm-4">APR 2017</h4>
             <div class="col-sm-8">
-                <p><u>Ying Chun Lin</u>, Chi-Hsuan Huang, Chu-Cheng Hsieh, Yu-Chen Shu, Kun-Ta Chuang, Monetary Discount Strategies for Real-Time Promotion Campaign, In <i>Proceedings of the 26th International Conference on World Wide Web</i>. (WWW ‘17) (submitted) <span class="fa fa-file-text-o"></span> <a href="" target="_blank">link</a></p>
+                <p><u>Ying-Chun Lin</u>, Chi-Hsuan Huang, Chu-Cheng Hsieh, Yu-Chen Shu, Kun-Ta Chuang, Monetary Discount Strategies for Real-Time Promotion Campaign, In <i>Proceedings of the 26th International Conference on World Wide Web</i>. (WWW ‘17) (submitted) <span class="fa fa-file-text-o"></span> <a href="" target="_blank">link</a></p>
             </div>
         </div>
         <div class="row">
             <h4 class="col-sm-4">OCT 2016</h4>
             <div class="col-sm-8">
-                <p><u>Ying Chun Lin</u>, Po-An Yang, Yen-Kuan Lee, Kun-Ta Chuang, Generation of Conceptual-Level Text Cloud with Graph Diffusion, In <i>Proceedings of 28th Conference on Computational Linguistics and Speech Processing</i>. (ROCOLING ‘16) <span class="fa fa-file-text-o"></span> <a href="https://sites.google.com/site/rocling2016/program/technical-program" target="_blank">link</a></p>
+                <p><u>Ying-Chun Lin</u>, Po-An Yang, Yen-Kuan Lee, Kun-Ta Chuang, Generation of Conceptual-Level Text Cloud with Graph Diffusion, In <i>Proceedings of 28th Conference on Computational Linguistics and Speech Processing</i>. (ROCOLING ‘16) <span class="fa fa-file-text-o"></span> <a href="https://sites.google.com/site/rocling2016/program/technical-program" target="_blank">link</a></p>
             </div>
         </div>
         <div class="row">
             <h4 class="col-sm-4">May 2015</h4>
             <div class="col-sm-8">
-                <p><u>Ying Chun Lin</u>, Cheng-Wei Wu, Vincent S. Tseng, Mining High Utility Itemsets in Big Data, In <i>Proceedings of the International Pacific-Asia Conference on Knowledge Discovery and Data Mining</i>, pp.649 - 661. (PAKDD '15) <span class="fa fa-file-text-o"></span> <a href="http://link.springer.com/chapter/10.1007%2F978-3-319-18032-8_51" target="_blank">link</a></p>
+                <p><u>Ying-Chun Lin</u>, Cheng-Wei Wu, Vincent S. Tseng, Mining High Utility Itemsets in Big Data, In <i>Proceedings of the International Pacific-Asia Conference on Knowledge Discovery and Data Mining</i>, pp.649 - 661. (PAKDD '15) <span class="fa fa-file-text-o"></span> <a href="http://link.springer.com/chapter/10.1007%2F978-3-319-18032-8_51" target="_blank">link</a></p>
             </div>
         </div>
     </div>
