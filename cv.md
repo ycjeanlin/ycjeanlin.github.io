@@ -46,7 +46,7 @@ permalink: /cv/
         <div class="row">
             <h4 class="col-sm-4">APR 2017</h4>
             <div class="col-sm-8">
-                <p><u>Ying-Chun Lin</u>, Chi-Hsuan Huang, Chu-Cheng Hsieh, Yu-Chen Shu, Kun-Ta Chuang, Monetary Discount Strategies for Real-Time Promotion Campaign, In <i>Proceedings of the 26th International Conference on World Wide Web</i>. (WWW ‘17) (submitted) <span class="fa fa-file-text-o"></span> <a href="" target="_blank">link</a></p>
+                <p><u>Ying-Chun Lin</u>, Chi-Hsuan Huang, Chu-Cheng Hsieh, Yu-Chen Shu, Kun-Ta Chuang, Monetary Discount Strategies for Real-Time Promotion Campaign, In <i>Proceedings of the 26th International Conference on World Wide Web</i>. (WWW ‘17) <span class="fa fa-file-text-o"></span> <a href="" target="_blank">link</a></p>
             </div>
         </div>
         <div class="row">
