@@ -77,7 +77,7 @@ permalink: /cv/
             </div>
         </div>
         <div class="row">
-            <h4 class="col-sm-4">APR 2016 - Present</h4>
+            <h4 class="col-sm-4">Apr 2016 - Present</h4>
             <div class="col-sm-8">
                 <p><b><a href="https://www.slice.com/" target="_blank">Slice Technologies</a>, USA</b></p>
                 <p></p>
@@ -86,7 +86,7 @@ permalink: /cv/
             </div>
         </div>
         <div class="row">
-            <h4 class="col-sm-4">JUL 2014 - DEC 2014</h4>
+            <h4 class="col-sm-4">Jul 2014 - Dec 2014</h4>
             <div class="col-sm-8">
                 <p><b>Industrial Technology Research Institute, Taiwan</b></p>
                 <p>Supervisor: <a href="http://people.cs.nctu.edu.tw/~vtseng/" target="_blank">Prof. Vincent S. Tseng</a></p>
@@ -101,7 +101,7 @@ permalink: /cv/
     <div class="container">
         <h3 class="categories"><span class="fa fa-briefcase"></span> Work Experience</h3>
         <div class="row">
-            <h4 class="col-sm-4">July 2015 - Aug 2015</h4>
+            <h4 class="col-sm-4">Jul 2015 - Aug 2015</h4>
             <div class="col-sm-8">
                 <p><b>Yahoo Taiwan</b></p>
                 <p>Intern of Software engineering in Search Team</p>
@@ -117,7 +117,7 @@ permalink: /cv/
             </div>
         </div>
         <div class="row">
-            <h4 class="col-sm-4">Jan 2013 - July 2013</h4>
+            <h4 class="col-sm-4">Jan 2013 - Jul 2013</h4>
             <div class="col-sm-8">
                 <p><b>MRI Center @ National Cheng-Kung University, Taiwan</b></p>
                 <p>Software Engineer</p>
