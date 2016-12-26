@@ -6,7 +6,7 @@ permalink: /cv/
 <section class="title">
     <div class="container">
         <h1>CURRICULUM VITAE</h1>
-        <p><a href="{{ site.baseurl }}/doc/CV_jean.pdf" target="_blank">PDF version download</a></p>
+        <p><a href="{{ site.baseurl }}/doc/CV_20161226.pdf" target="_blank">PDF version download</a></p>
     </div>
 </section>
 
@@ -145,7 +145,7 @@ permalink: /cv/
 <div class="container">
     <br>
     <br>
-    <p class="pull-right">last update: 2016-12-08</p>
+    <p class="pull-right">last update: 2016-12-26</p>
 </div>
 
 
