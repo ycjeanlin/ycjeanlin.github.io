@@ -15,6 +15,14 @@ permalink: /cv/
     <div class="container">
         <h3 class="categories"><span class="fa fa-graduation-cap"></span> Education</h3>
         <div class="row">
+            <h4 class="col-sm-4">July 2017 - Present</h4>
+            <div class="col-sm-8">
+                <p><b>Purdue University, USA</b></p>
+                <p>Ph.D of Computer Science </p> 
+                <p>Advisor: <a href="https://www.cs.purdue.edu/homes/neville/" target="_blank">Prof. Jennifer Neville</a></p>
+            </div>
+        </div>
+        <div class="row">
             <h4 class="col-sm-4">Feb 2014 - June 2016</h4>
             <div class="col-sm-8">
                 <p><b>National Cheng Kung University, Taiwan</b></p>
@@ -100,6 +108,14 @@ permalink: /cv/
 <section class="work">
     <div class="container">
         <h3 class="categories"><span class="fa fa-briefcase"></span> Work Experience</h3>
+        <div class="row">
+            <h4 class="col-sm-4">Sep 2016 - June 2017</h4>
+            <div class="col-sm-8">
+                <p><b>Academia Sinica, Taiwan</b></p>
+                <p>Research Assistant</p>
+                <p>Work on research topics related to spatial queries, algorithms, and computational theories</p>
+            </div>
+        </div>
         <div class="row">
             <h4 class="col-sm-4">Jul 2015 - Aug 2015</h4>
             <div class="col-sm-8">
