@@ -15,15 +15,15 @@ permalink: /cv/
     <div class="container">
         <h3 class="categories"><span class="fa fa-graduation-cap"></span> Education</h3>
         <div class="row">
-            <h4 class="col-sm-4">July 2017 - Present</h4>
+            <h4 class="col-sm-4">Jul 2017 - Present</h4>
             <div class="col-sm-8">
                 <p><b>Purdue University, USA</b></p>
-                <p>Ph.D of Computer Science </p> 
+                <p>Ph.D in Computer Science </p> 
                 <p>Advisor: <a href="https://www.cs.purdue.edu/homes/neville/" target="_blank">Prof. Jennifer Neville</a></p>
             </div>
         </div>
         <div class="row">
-            <h4 class="col-sm-4">Feb 2014 - June 2016</h4>
+            <h4 class="col-sm-4">Feb 2014 - Jun 2016</h4>
             <div class="col-sm-8">
                 <p><b>National Cheng Kung University, Taiwan</b></p>
                 <p>Master of Science in Computer Science and Information Engineering</p>
@@ -31,7 +31,7 @@ permalink: /cv/
             </div>
         </div>
         <div class="row">
-            <h4 class="col-sm-4">Sep 2009 - June 2013</h4>
+            <h4 class="col-sm-4">Sep 2009 - Jun 2013</h4>
             <div class="col-sm-8">
                 <p><b>National Cheng Kung University, Taiwan</b></p>
                 <p>Bachelor of Science in Electrical Engineering</p>
@@ -77,11 +77,11 @@ permalink: /cv/
     <div class="container">
         <h3 class="categories"><span class="fa fa-flask"></span> Projects</h3>
         <div class="row">
-            <h4 class="col-sm-4">Sep 2016 - Present</h4>
+            <h4 class="col-sm-4">Sep 2016 - Jun 2017</h4>
             <div class="col-sm-8">
                 <p><b><a href="https://www.sinica.edu.tw/en" target="_blank">Academia Sinica</a>, Taiwan</b></p>
                 <p>Supervisor: <a href="http://www.iis.sinica.edu.tw/pages/dnyang/" target="_blank">Prof. De-Nian Yang</a></p>
-                <p>Working on a research project related to spatial queries in Virtual Reality</p>
+                <p>Working on a research project related to spatial queries</p>
             </div>
         </div>
         <div class="row">
@@ -109,11 +109,11 @@ permalink: /cv/
     <div class="container">
         <h3 class="categories"><span class="fa fa-briefcase"></span> Work Experience</h3>
         <div class="row">
-            <h4 class="col-sm-4">Sep 2016 - June 2017</h4>
+            <h4 class="col-sm-4">Sep 2016 - Jun 2017</h4>
             <div class="col-sm-8">
                 <p><b>Academia Sinica, Taiwan</b></p>
                 <p>Research Assistant</p>
-                <p>Work on research topics related to spatial queries, algorithms, and computational theories</p>
+                <p>Work on research topics related to spatial queries, algorithms, and computational theory</p>
             </div>
         </div>
         <div class="row">
