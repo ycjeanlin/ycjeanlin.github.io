@@ -85,7 +85,7 @@ permalink: /cv/
             </div>
         </div>
         <div class="row">
-            <h4 class="col-sm-4">Apr 2016 - Present</h4>
+            <h4 class="col-sm-4">Apr 2016 - Dec 2016</h4>
             <div class="col-sm-8">
                 <p><b><a href="https://www.slice.com/" target="_blank">Slice Technologies</a>, USA</b></p>
                 <p></p>
@@ -147,6 +147,13 @@ permalink: /cv/
 <section class="honor">
     <div class="container">
         <h3 class="categories"><span class="fa fa-trophy"></span> Honors & Awards</h3>
+        <div class="row">
+            <h4 class="col-sm-4">Aug 2017</h4>
+            <div class="col-sm-8">
+                <p><b>Ross Fellowship</b></p>
+                <p>Graduate School of Purdue University</p>
+            </div>
+        </div>
         <div class="row">
             <h4 class="col-sm-4">Feb 2015</h4>
             <div class="col-sm-8">
