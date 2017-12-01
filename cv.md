@@ -168,7 +168,7 @@ permalink: /cv/
 <div class="container">
     <br>
     <br>
-    <p class="pull-right">last update: 2016-12-26</p>
+    <p class="pull-right">last update: 2017-12-01</p>
 </div>
 
 
